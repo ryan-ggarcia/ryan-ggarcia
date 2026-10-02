@@ -24,24 +24,18 @@
 
 <br/>
 
-<!-- ================= SOBRE ================= -->
-## 👨‍💻 Sobre mim
+<!-- ================= SNAKE ================= -->
+## 🐍 Minhas contribuições sendo devoradas
 
-```js
-const ryan = {
-  nome: "Ryan Fidelis",
-  funcao: ["Desenvolvedor Full-Stack", "Designer UX/UI"],
-  localizacao: "Brasil 🇧🇷",
-  foco: "Interfaces modernas e experiências intuitivas",
-  estudando: ["Novas tecnologias web", "Design de interfaces"],
-  objetivo: "Unir design e código para criar produtos que as pessoas amam usar",
-};
-```
+<div align="center">
 
-- 🎨 Apaixonado por **design de interfaces** e experiência do usuário
-- 💻 Construo aplicações **do front ao back**, com atenção aos detalhes
-- 🌱 Sempre aprendendo e evoluindo a cada projeto
-- 🚀 Confira meus trabalhos no [**portfólio**](https://portfolio-one-roan-bo00yi8lvy.vercel.app/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryan-ggarcia/ryan-ggarcia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryan-ggarcia/ryan-ggarcia/output/github-snake.svg" />
+  <img alt="Animação da snake comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/ryan-ggarcia/ryan-ggarcia/output/github-snake-dark.svg" />
+</picture>
+
+</div>
 
 <br/>
 
@@ -56,7 +50,7 @@ const ryan = {
 
 **Back-end**
 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ruby,rails&theme=dark" alt="Back-end" />
 
 **Design & Ferramentas**
 
@@ -111,54 +105,6 @@ const ryan = {
 
 <br/>
 
-<!-- ================= STATS ================= -->
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ryan-ggarcia&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=transparent&title_color=f97316&icon_color=fb923c&text_color=9ca3af&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-ggarcia&layout=compact&langs_count=6&locale=pt-br&theme=transparent&title_color=f97316&text_color=9ca3af&hide_border=true&bg_color=00000000" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ryan-ggarcia&locale=pt_BR&theme=transparent&ring=f97316&fire=fb923c&currStreakLabel=f97316&sideLabels=9ca3af&currStreakNum=9ca3af&sideNums=9ca3af&dates=6b7280&hide_border=true&background=00000000" alt="GitHub Streak" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ryan-ggarcia&bg_color=00000000&color=9ca3af&line=f97316&point=fb923c&area=true&area_color=f97316&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" alt="Activity Graph" />
-
-</div>
-
-<br/>
-
-<!-- ================= SNAKE ================= -->
-## 🐍 Minhas contribuições sendo devoradas
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryan-ggarcia/ryan-ggarcia/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryan-ggarcia/ryan-ggarcia/output/github-snake.svg" />
-  <img alt="Animação da snake comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/ryan-ggarcia/ryan-ggarcia/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ================= TROFÉUS ================= -->
-## 🏆 Troféus
-
-<div align="center">
-
-<a href="https://github.com/ryan-ggarcia?tab=achievements">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryan-ggarcia&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus" />
-</a>
-
-</div>
-
-<br/>
-
 <!-- ================= CONTATO ================= -->
 ## 🤝 Vamos conversar?
 
@@ -185,6 +131,27 @@ Estou aberto a **projetos, colaborações e oportunidades**. Fique à vontade pa
 -->
 
 </div>
+
+<br/>
+
+<!-- ================= SOBRE ================= -->
+## 👨‍💻 Sobre mim
+
+```js
+const ryan = {
+  nome: "Ryan Fidelis",
+  funcao: ["Desenvolvedor Full-Stack", "Designer UX/UI"],
+  localizacao: "Brasil 🇧🇷",
+  foco: "Interfaces modernas e experiências intuitivas",
+  estudando: ["Novas tecnologias web", "Design de interfaces"],
+  objetivo: "Unir design e código para criar produtos que as pessoas amam usar",
+};
+```
+
+- 🎨 Apaixonado por **design de interfaces** e experiência do usuário
+- 💻 Construo aplicações **do front ao back**, com atenção aos detalhes
+- 🌱 Sempre aprendendo e evoluindo a cada projeto
+- 🚀 Confira meus trabalhos no [**portfólio**](https://portfolio-one-roan-bo00yi8lvy.vercel.app/)
 
 <br/>
 
