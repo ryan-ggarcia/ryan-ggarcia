@@ -13,7 +13,10 @@
   <img src="https://img.shields.io/badge/PORTF%C3%93LIO-ver%20online-f97316?style=for-the-badge&logo=vercel&logoColor=white&labelColor=131110" alt="Portfólio" />
 </a>
 <a href="https://github.com/ryan-ggarcia?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-20-f97316?style=for-the-badge&logo=github&logoColor=white&labelColor=131110" alt="Repositórios" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fryan-ggarcia&query=%24.public_repos&label=REPOSIT%C3%93RIOS&style=for-the-badge&logo=github&logoColor=white&color=f97316&labelColor=131110" alt="Repositórios" />
+</a>
+<a href="https://github.com/ryan-ggarcia?tab=followers">
+  <img src="https://img.shields.io/github/followers/ryan-ggarcia?label=SEGUIDORES&style=for-the-badge&logo=github&logoColor=white&color=f97316&labelColor=131110" alt="Seguidores" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ryan-ggarcia&style=for-the-badge&color=f97316&label=VISITAS&labelColor=131110" alt="Visitas" />
 
@@ -30,7 +33,7 @@ const ryan = {
   funcao: ["Desenvolvedor Full-Stack", "Designer UX/UI"],
   localizacao: "Brasil 🇧🇷",
   foco: "Interfaces modernas e experiências intuitivas",
-  atualmenteEstudando: ["Novas tecnologias web", "Design de interfaces"],
+  estudando: ["Novas tecnologias web", "Design de interfaces"],
   objetivo: "Unir design e código para criar produtos que as pessoas amam usar",
 };
 ```
@@ -47,7 +50,17 @@ const ryan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,figma,vercel&theme=dark" alt="Stack" />
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Front-end" />
+
+**Back-end**
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Back-end" />
+
+**Design & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel&theme=dark" alt="Ferramentas" />
 
 </div>
 
@@ -59,43 +72,33 @@ const ryan = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍕 pizzaDelivery</h3>
+      <h3>🍕 <a href="https://github.com/ryan-ggarcia/pizzaDelivery">pizzaDelivery</a></h3>
       <p>Aplicação de delivery de pizzaria com foco em visual atrativo e boa experiência de pedido.</p>
-      <img src="https://img.shields.io/badge/CSS-f97316?style=flat-square&logo=css3&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/ryan-ggarcia/pizzaDelivery">Ver repositório →</a>
+      <img src="https://img.shields.io/badge/CSS-f97316?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
     </td>
     <td width="50%" valign="top">
-      <h3>💊 FarmaFipp</h3>
+      <h3>💊 <a href="https://github.com/ryan-ggarcia/FarmaFipp-project">FarmaFipp</a></h3>
       <p>Projeto voltado para o universo de farmácia, desenvolvido em JavaScript.</p>
-      <img src="https://img.shields.io/badge/JavaScript-f97316?style=flat-square&logo=javascript&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/ryan-ggarcia/FarmaFipp-project">Ver repositório →</a>
+      <img src="https://img.shields.io/badge/JavaScript-f97316?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 mini-ecommerce</h3>
+      <h3>🛒 <a href="https://github.com/ryan-ggarcia/mini-ecommerce">mini-ecommerce</a></h3>
       <p>Um mini e-commerce com catálogo de produtos e fluxo de compra.</p>
-      <img src="https://img.shields.io/badge/JavaScript-f97316?style=flat-square&logo=javascript&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/ryan-ggarcia/mini-ecommerce">Ver repositório →</a>
+      <img src="https://img.shields.io/badge/JavaScript-f97316?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
     </td>
     <td width="50%" valign="top">
-      <h3>💈 Studio Primus</h3>
+      <h3>💈 <a href="https://github.com/ryan-ggarcia/Studio-Primus">Studio Primus</a></h3>
       <p>Site institucional com design moderno e foco em apresentação visual.</p>
-      <img src="https://img.shields.io/badge/CSS-f97316?style=flat-square&logo=css3&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/ryan-ggarcia/Studio-Primus">Ver repositório →</a>
+      <img src="https://img.shields.io/badge/CSS-f97316?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>💸 MoneyFlow</h3>
+      <h3>💸 <a href="https://github.com/ryan-ggarcia/MoneyFlow">MoneyFlow</a></h3>
       <p>App de controle financeiro para acompanhar entradas, saídas e organizar o orçamento pessoal.</p>
-      <img src="https://img.shields.io/badge/HTML-f97316?style=flat-square&logo=html5&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/ryan-ggarcia/MoneyFlow">Ver repositório →</a>
+      <img src="https://img.shields.io/badge/HTML-f97316?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
     </td>
   </tr>
 </table>
@@ -113,36 +116,43 @@ const ryan = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ryan-ggarcia&show_icons=true&theme=transparent&title_color=f97316&icon_color=fb923c&text_color=9ca3af&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-ggarcia&layout=compact&theme=transparent&title_color=f97316&text_color=9ca3af&hide_border=true&bg_color=00000000" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ryan-ggarcia&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=transparent&title_color=f97316&icon_color=fb923c&text_color=9ca3af&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-ggarcia&layout=compact&langs_count=6&locale=pt-br&theme=transparent&title_color=f97316&text_color=9ca3af&hide_border=true&bg_color=00000000" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-ggarcia&theme=transparent&ring=f97316&fire=fb923c&currStreakLabel=f97316&sideLabels=9ca3af&currStreakNum=9ca3af&sideNums=9ca3af&dates=6b7280&hide_border=true&background=00000000" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ryan-ggarcia&locale=pt_BR&theme=transparent&ring=f97316&fire=fb923c&currStreakLabel=f97316&sideLabels=9ca3af&currStreakNum=9ca3af&sideNums=9ca3af&dates=6b7280&hide_border=true&background=00000000" alt="GitHub Streak" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ryan-ggarcia&bg_color=00000000&color=9ca3af&line=f97316&point=fb923c&area=true&area_color=f97316&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" alt="Activity Graph" />
 
 </div>
 
 <br/>
 
-<!-- ================= CONTRIBUIÇÕES ================= -->
+<!-- ================= SNAKE ================= -->
+## 🐍 Minhas contribuições sendo devoradas
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryan-ggarcia&bg_color=00000000&color=9ca3af&line=f97316&point=fb923c&area=true&area_color=f97316&hide_border=true" alt="Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryan-ggarcia/ryan-ggarcia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryan-ggarcia/ryan-ggarcia/output/github-snake.svg" />
+  <img alt="Animação da snake comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/ryan-ggarcia/ryan-ggarcia/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
 <br/>
 
-<!-- ================= CONQUISTAS ================= -->
-## 🏆 Conquistas
+<!-- ================= TROFÉUS ================= -->
+## 🏆 Troféus
 
 <div align="center">
 
 <a href="https://github.com/ryan-ggarcia?tab=achievements">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" />
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80" alt="Pair Extraordinaire" />
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryan-ggarcia&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus" />
 </a>
 
 </div>
